@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=MyArrays
+comment1.params=array
+comment1.target=void\ max(int[])
+comment2.params=array
+comment2.target=void\ odd(int[])
+numComments=3
