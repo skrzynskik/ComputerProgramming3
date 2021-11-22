@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Seller
+comment1.params=companyName\ yearOfFounding\ noOfEmployees
+comment1.target=Seller(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=companyName
+comment3.target=void\ setCompanyName(java.lang.String)
+comment4.params=noOfEmployees
+comment4.target=void\ setNoOfEmployees(int)
+comment5.params=yearOfFounding
+comment5.target=void\ setYearOfFounding(int)
+numComments=6

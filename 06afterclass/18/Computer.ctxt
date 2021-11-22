@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Computer
+comment1.params=cpu\ ramSize\ ssdSize\ mobo
+comment1.target=Computer(java.lang.String,\ int,\ int,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment3.params=cpu
+comment3.target=void\ setCPU(java.lang.String)
+comment4.params=ramSize
+comment4.target=void\ setRamSize(int)
+comment5.params=ssdSize
+comment5.target=void\ setSSDSize(int)
+comment6.params=mobo
+comment6.target=void\ setMobo(java.lang.String)
+comment7.params=args
+comment7.target=void\ main(java.lang.String[])
+numComments=8

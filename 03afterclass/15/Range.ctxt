@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Range
+comment1.params=rangeStart\ rangeEnd
+comment1.target=Range(int,\ int)
+comment2.params=
+comment2.target=void\ showNoOfItems()
+comment3.params=
+comment3.target=void\ sumNumbers()
+comment4.params=
+comment4.target=void\ calcAverage()
+numComments=5
